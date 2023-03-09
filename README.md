@@ -1,2 +1,2 @@
-# gitHubRepoDemo
+# GitHubRepoDemo
 Demo For Github
